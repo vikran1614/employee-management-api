@@ -1,78 +1,36 @@
-# Employee Management API
+## Task 4 — Master Dataset and Seed Pipeline
 
-A layered FastAPI application with environment-based configuration, PostgreSQL, Docker Compose, and automated tests.
+### Overview
 
-## Technology Stack
+This project provides a generated HR master dataset for employee management, salary processing, attendance tracking, analytics, and reporting.
 
-- Python 3.13
-- FastAPI
-- Pydantic Settings
-- PostgreSQL
-- Docker and Docker Compose
-- Pytest
+### Generated files
 
-## Project Structure
+| File | Description |
+|---|---|
+| `sample_data/employees_master.csv` | Master employee dataset (50 records) |
+| `sample_data/employees_master.json` | Employee data in JSON format (50 records) |
+| `sample_data/salaries.csv` | Salary records linked to employees (50 records) |
+| `sample_data/attendance.csv` | Attendance records linked to employees (1,100 records) |
 
-```text
-employee-management-api/
-├── app/
-│   ├── api/
-│   ├── core/
-│   └── main.py
-├── contracts/
-│   └── api-contract.md
-├── docs/
-├── sample_data/
-│   └── employees.json
-├── scripts/
-├── tests/
-├── .env.example
-├── docker-compose.yml
-├── Dockerfile
-├── requirements.txt
-└── README.md
-```
+### Generate the datasets
 
-## Prerequisites
-
-Install Docker Desktop and ensure it is running.
-
-## Run the Application
-
-Start the API and PostgreSQL database:
+With Docker Compose running, execute:
 
 ```powershell
-docker compose up --build -d
+docker compose exec api python scripts/generate_master_dataset.py
 ```
 
-Check the running containers:
+### Verify the API tests
 
 ```powershell
-docker compose ps
+docker compose exec api python -m pytest -v
 ```
 
-## API Endpoints
+### Data integrity
 
-Health check:
+The generated datasets have been checked for matching employee IDs between the employee and salary files, valid employee references in attendance, and duplicate employee IDs in the master dataset.
 
-`GET /api/v1/health`
+### Notes
 
-Interactive API documentation:
-
-http://localhost:8000/docs
-
-## Run Tests
-
-Activate the virtual environment and run:
-
-```powershell
-.\.venv\Scripts\python.exe -m pytest -v
-```
-
-## Stop the Application
-
-```powershell
-docker compose down
-```
-
-The PostgreSQL data volume is preserved when using this command.
+These datasets are generated sample data for development and testing. They are not production employee records.
