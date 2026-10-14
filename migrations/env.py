@@ -1,4 +1,5 @@
 
+import os
 from logging.config import fileConfig
 
 from alembic import context
@@ -16,9 +17,11 @@ if config.config_file_name is not None:
 
 target_metadata = Base.metadata
 
-# Use localhost when Alembic runs directly on Windows.
+# Docker uses the hostname "db".
+# Windows-host execution uses "localhost".
 database_url = make_url(settings.database_url)
-if database_url.host == "db":
+
+if os.name == "nt" and database_url.host == "db":
     database_url = database_url.set(host="localhost")
 
 
