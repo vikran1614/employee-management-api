@@ -1,4 +1,3 @@
-
 from datetime import date
 
 from sqlalchemy import Date, ForeignKey, String, UniqueConstraint
@@ -15,7 +14,6 @@ class Employee(Base):
     )
 
     id: Mapped[int] = mapped_column(primary_key=True, index=True)
-
     first_name: Mapped[str] = mapped_column(String(100), nullable=False)
     last_name: Mapped[str] = mapped_column(String(100), nullable=False)
     email: Mapped[str] = mapped_column(String(255), nullable=False)
@@ -53,6 +51,7 @@ class Employee(Base):
     department: Mapped["Department"] = relationship(
         back_populates="employees",
     )
+
     role: Mapped["Role"] = relationship(
         back_populates="employees",
     )
@@ -61,6 +60,7 @@ class Employee(Base):
         back_populates="team_members",
         remote_side="Employee.id",
     )
+
     team_members: Mapped[list["Employee"]] = relationship(
         back_populates="manager",
     )
