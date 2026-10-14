@@ -1,5 +1,4 @@
-﻿
-FROM python:3.13-slim
+﻿FROM python:3.13-slim
 
 WORKDIR /app
 
@@ -10,8 +9,9 @@ COPY app ./app
 COPY tests ./tests
 COPY scripts ./scripts
 COPY sample_data ./sample_data
+COPY alembic.ini ./alembic.ini
+COPY migrations ./migrations
 
 EXPOSE 8000
 
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
-
