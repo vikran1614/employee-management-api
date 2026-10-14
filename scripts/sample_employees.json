@@ -1,0 +1,18 @@
+﻿[
+  {
+    "employee_code": "EMP001",
+    "first_name": "Aarav",
+    "last_name": "Sharma",
+    "email": "aarav.sharma@example.com",
+    "department": "Engineering",
+    "role": "Software Engineer"
+  },
+  {
+    "employee_code": "EMP002",
+    "first_name": "Meera",
+    "last_name": "Reddy",
+    "email": "meera.reddy@example.com",
+    "department": "Data",
+    "role": "Data Analyst"
+  }
+]

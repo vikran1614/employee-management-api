@@ -1,0 +1,82 @@
+[
+  {
+    "employee_id": 1,
+    "first_name": "Arun",
+    "last_name": "Kumar",
+    "email": "arun.kumar@example.com",
+    "department": "Engineering",
+    "role": "Software Engineer"
+  },
+  {
+    "employee_id": 2,
+    "first_name": "Priya",
+    "last_name": "Sharma",
+    "email": "priya.sharma@example.com",
+    "department": "Human Resources",
+    "role": "HR Associate"
+  },
+  {
+    "employee_id": 3,
+    "first_name": "Rahul",
+    "last_name": "Reddy",
+    "email": "rahul.reddy@example.com",
+    "department": "Engineering",
+    "role": "Backend Developer"
+  },
+  {
+    "employee_id": 4,
+    "first_name": "Sneha",
+    "last_name": "Patel",
+    "email": "sneha.patel@example.com",
+    "department": "Finance",
+    "role": "Accountant"
+  },
+  {
+    "employee_id": 5,
+    "first_name": "Kiran",
+    "last_name": "Rao",
+    "email": "kiran.rao@example.com",
+    "department": "Engineering",
+    "role": "Frontend Developer"
+  },
+  {
+    "employee_id": 6,
+    "first_name": "Anjali",
+    "last_name": "Verma",
+    "email": "anjali.verma@example.com",
+    "department": "Marketing",
+    "role": "Marketing Associate"
+  },
+  {
+    "employee_id": 7,
+    "first_name": "Vijay",
+    "last_name": "Naidu",
+    "email": "vijay.naidu@example.com",
+    "department": "Engineering",
+    "role": "QA Engineer"
+  },
+  {
+    "employee_id": 8,
+    "first_name": "Meera",
+    "last_name": "Reddy",
+    "email": "meera.reddy@example.com",
+    "department": "Operations",
+    "role": "Operations Associate"
+  },
+  {
+    "employee_id": 9,
+    "first_name": "Sandeep",
+    "last_name": "Singh",
+    "email": "sandeep.singh@example.com",
+    "department": "Finance",
+    "role": "Financial Analyst"
+  },
+  {
+    "employee_id": 10,
+    "first_name": "Divya",
+    "last_name": "Krishna",
+    "email": "divya.krishna@example.com",
+    "department": "Marketing",
+    "role": "Content Specialist"
+  }
+]
