@@ -1,0 +1,502 @@
+[
+  {
+    "employee_id": 1,
+    "first_name": "Isaac",
+    "last_name": "Bakshi",
+    "email": "employee1@example.com",
+    "department": "Engineering",
+    "role": "Software Engineer",
+    "hire_date": "2024-02-14",
+    "status": "active"
+  },
+  {
+    "employee_id": 2,
+    "first_name": "Yash",
+    "last_name": "Kapoor",
+    "email": "employee2@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2022-12-20",
+    "status": "active"
+  },
+  {
+    "employee_id": 3,
+    "first_name": "Harsh",
+    "last_name": "Chahal",
+    "email": "employee3@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2025-05-15",
+    "status": "active"
+  },
+  {
+    "employee_id": 4,
+    "first_name": "Azad",
+    "last_name": "Balan",
+    "email": "employee4@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2022-07-31",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 5,
+    "first_name": "Tejas",
+    "last_name": "Kaul",
+    "email": "employee5@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2026-01-30",
+    "status": "active"
+  },
+  {
+    "employee_id": 6,
+    "first_name": "Avi",
+    "last_name": "Issac",
+    "email": "employee6@example.com",
+    "department": "Finance",
+    "role": "Accountant",
+    "hire_date": "2026-06-02",
+    "status": "active"
+  },
+  {
+    "employee_id": 7,
+    "first_name": "Oni",
+    "last_name": "Kannan",
+    "email": "employee7@example.com",
+    "department": "HR",
+    "role": "Recruiter",
+    "hire_date": "2025-08-08",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 8,
+    "first_name": "Arunima",
+    "last_name": "Ahuja",
+    "email": "employee8@example.com",
+    "department": "Finance",
+    "role": "Payroll Analyst",
+    "hire_date": "2023-02-21",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 9,
+    "first_name": "Pahal",
+    "last_name": "Oak",
+    "email": "employee9@example.com",
+    "department": "Data",
+    "role": "Data Analyst",
+    "hire_date": "2024-02-23",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 10,
+    "first_name": "Nachiket",
+    "last_name": "Kale",
+    "email": "employee10@example.com",
+    "department": "Data",
+    "role": "Data Analyst",
+    "hire_date": "2024-08-23",
+    "status": "active"
+  },
+  {
+    "employee_id": 11,
+    "first_name": "Harsh",
+    "last_name": "Chanda",
+    "email": "employee11@example.com",
+    "department": "Engineering",
+    "role": "Software Engineer",
+    "hire_date": "2025-01-05",
+    "status": "active"
+  },
+  {
+    "employee_id": 12,
+    "first_name": "Gunbir",
+    "last_name": "Parmer",
+    "email": "employee12@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2024-09-15",
+    "status": "active"
+  },
+  {
+    "employee_id": 13,
+    "first_name": "Aishani",
+    "last_name": "Bassi",
+    "email": "employee13@example.com",
+    "department": "HR",
+    "role": "Recruiter",
+    "hire_date": "2025-09-09",
+    "status": "active"
+  },
+  {
+    "employee_id": 14,
+    "first_name": "Jeet",
+    "last_name": "Radhakrishnan",
+    "email": "employee14@example.com",
+    "department": "Engineering",
+    "role": "Backend Developer",
+    "hire_date": "2022-06-14",
+    "status": "active"
+  },
+  {
+    "employee_id": 15,
+    "first_name": "Chaaya",
+    "last_name": "Pathak",
+    "email": "employee15@example.com",
+    "department": "Engineering",
+    "role": "Backend Developer",
+    "hire_date": "2026-09-10",
+    "status": "active"
+  },
+  {
+    "employee_id": 16,
+    "first_name": "Rehaan",
+    "last_name": "Boase",
+    "email": "employee16@example.com",
+    "department": "HR",
+    "role": "Recruiter",
+    "hire_date": "2022-03-04",
+    "status": "active"
+  },
+  {
+    "employee_id": 17,
+    "first_name": "Vedant",
+    "last_name": "Mann",
+    "email": "employee17@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2022-06-17",
+    "status": "active"
+  },
+  {
+    "employee_id": 18,
+    "first_name": "Viraj",
+    "last_name": "Chaudhuri",
+    "email": "employee18@example.com",
+    "department": "Engineering",
+    "role": "Software Engineer",
+    "hire_date": "2025-01-06",
+    "status": "active"
+  },
+  {
+    "employee_id": 19,
+    "first_name": "Arunima",
+    "last_name": "Setty",
+    "email": "employee19@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2024-11-19",
+    "status": "active"
+  },
+  {
+    "employee_id": 20,
+    "first_name": "Nicholas",
+    "last_name": "Prabhakar",
+    "email": "employee20@example.com",
+    "department": "Finance",
+    "role": "Accountant",
+    "hire_date": "2024-10-20",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 21,
+    "first_name": "Shaurya",
+    "last_name": "Loke",
+    "email": "employee21@example.com",
+    "department": "HR",
+    "role": "Recruiter",
+    "hire_date": "2022-05-22",
+    "status": "active"
+  },
+  {
+    "employee_id": 22,
+    "first_name": "Onveer",
+    "last_name": "Walla",
+    "email": "employee22@example.com",
+    "department": "Data",
+    "role": "Data Engineer",
+    "hire_date": "2023-11-12",
+    "status": "active"
+  },
+  {
+    "employee_id": 23,
+    "first_name": "Nihal",
+    "last_name": "Shere",
+    "email": "employee23@example.com",
+    "department": "Finance",
+    "role": "Accountant",
+    "hire_date": "2025-01-03",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 24,
+    "first_name": "Anamika",
+    "last_name": "Kanda",
+    "email": "employee24@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2024-07-16",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 25,
+    "first_name": "Daksh",
+    "last_name": "Karnik",
+    "email": "employee25@example.com",
+    "department": "HR",
+    "role": "Recruiter",
+    "hire_date": "2022-01-20",
+    "status": "active"
+  },
+  {
+    "employee_id": 26,
+    "first_name": "Diya",
+    "last_name": "Rattan",
+    "email": "employee26@example.com",
+    "department": "Engineering",
+    "role": "Backend Developer",
+    "hire_date": "2024-01-22",
+    "status": "active"
+  },
+  {
+    "employee_id": 27,
+    "first_name": "Dominic",
+    "last_name": "Kakar",
+    "email": "employee27@example.com",
+    "department": "Finance",
+    "role": "Payroll Analyst",
+    "hire_date": "2026-08-10",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 28,
+    "first_name": "Divya",
+    "last_name": "Kala",
+    "email": "employee28@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2026-01-11",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 29,
+    "first_name": "Meghana",
+    "last_name": "Shanker",
+    "email": "employee29@example.com",
+    "department": "Engineering",
+    "role": "Backend Developer",
+    "hire_date": "2022-12-30",
+    "status": "active"
+  },
+  {
+    "employee_id": 30,
+    "first_name": "Alka",
+    "last_name": "Dewan",
+    "email": "employee30@example.com",
+    "department": "Finance",
+    "role": "Accountant",
+    "hire_date": "2023-11-18",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 31,
+    "first_name": "Adya",
+    "last_name": "Sangha",
+    "email": "employee31@example.com",
+    "department": "Data",
+    "role": "Data Engineer",
+    "hire_date": "2026-09-29",
+    "status": "active"
+  },
+  {
+    "employee_id": 32,
+    "first_name": "Mohini",
+    "last_name": "Pathak",
+    "email": "employee32@example.com",
+    "department": "Finance",
+    "role": "Payroll Analyst",
+    "hire_date": "2023-08-25",
+    "status": "active"
+  },
+  {
+    "employee_id": 33,
+    "first_name": "Lakshit",
+    "last_name": "Upadhyay",
+    "email": "employee33@example.com",
+    "department": "Finance",
+    "role": "Accountant",
+    "hire_date": "2025-12-24",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 34,
+    "first_name": "Gavin",
+    "last_name": "Batta",
+    "email": "employee34@example.com",
+    "department": "Engineering",
+    "role": "Backend Developer",
+    "hire_date": "2022-09-18",
+    "status": "active"
+  },
+  {
+    "employee_id": 35,
+    "first_name": "Michael",
+    "last_name": "Dutta",
+    "email": "employee35@example.com",
+    "department": "Finance",
+    "role": "Payroll Analyst",
+    "hire_date": "2025-05-16",
+    "status": "active"
+  },
+  {
+    "employee_id": 36,
+    "first_name": "Devansh",
+    "last_name": "Rajan",
+    "email": "employee36@example.com",
+    "department": "Finance",
+    "role": "Payroll Analyst",
+    "hire_date": "2025-01-10",
+    "status": "active"
+  },
+  {
+    "employee_id": 37,
+    "first_name": "Upadhriti",
+    "last_name": "Wadhwa",
+    "email": "employee37@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2023-12-03",
+    "status": "active"
+  },
+  {
+    "employee_id": 38,
+    "first_name": "Advay",
+    "last_name": "Contractor",
+    "email": "employee38@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2026-05-08",
+    "status": "active"
+  },
+  {
+    "employee_id": 39,
+    "first_name": "Amara",
+    "last_name": "Oak",
+    "email": "employee39@example.com",
+    "department": "Data",
+    "role": "Data Engineer",
+    "hire_date": "2022-09-24",
+    "status": "active"
+  },
+  {
+    "employee_id": 40,
+    "first_name": "Chaaya",
+    "last_name": "Saran",
+    "email": "employee40@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2023-02-16",
+    "status": "active"
+  },
+  {
+    "employee_id": 41,
+    "first_name": "Sudiksha",
+    "last_name": "Aggarwal",
+    "email": "employee41@example.com",
+    "department": "Data",
+    "role": "Data Engineer",
+    "hire_date": "2024-01-09",
+    "status": "active"
+  },
+  {
+    "employee_id": 42,
+    "first_name": "Xiti",
+    "last_name": "Gokhale",
+    "email": "employee42@example.com",
+    "department": "HR",
+    "role": "Recruiter",
+    "hire_date": "2026-02-06",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 43,
+    "first_name": "Hitesh",
+    "last_name": "Misra",
+    "email": "employee43@example.com",
+    "department": "Engineering",
+    "role": "Software Engineer",
+    "hire_date": "2026-02-06",
+    "status": "inactive"
+  },
+  {
+    "employee_id": 44,
+    "first_name": "Rushil",
+    "last_name": "Dua",
+    "email": "employee44@example.com",
+    "department": "Engineering",
+    "role": "Backend Developer",
+    "hire_date": "2024-12-17",
+    "status": "active"
+  },
+  {
+    "employee_id": 45,
+    "first_name": "Neel",
+    "last_name": "Zacharia",
+    "email": "employee45@example.com",
+    "department": "Finance",
+    "role": "Payroll Analyst",
+    "hire_date": "2026-04-17",
+    "status": "active"
+  },
+  {
+    "employee_id": 46,
+    "first_name": "Aadi",
+    "last_name": "Naik",
+    "email": "employee46@example.com",
+    "department": "Finance",
+    "role": "Accountant",
+    "hire_date": "2025-12-09",
+    "status": "active"
+  },
+  {
+    "employee_id": 47,
+    "first_name": "Anirudh",
+    "last_name": "Choudhury",
+    "email": "employee47@example.com",
+    "department": "Finance",
+    "role": "Payroll Analyst",
+    "hire_date": "2024-11-13",
+    "status": "active"
+  },
+  {
+    "employee_id": 48,
+    "first_name": "Damyanti",
+    "last_name": "Khatri",
+    "email": "employee48@example.com",
+    "department": "Data",
+    "role": "Data Analyst",
+    "hire_date": "2022-04-10",
+    "status": "active"
+  },
+  {
+    "employee_id": 49,
+    "first_name": "Wridesh",
+    "last_name": "Brar",
+    "email": "employee49@example.com",
+    "department": "HR",
+    "role": "HR Executive",
+    "hire_date": "2022-07-06",
+    "status": "active"
+  },
+  {
+    "employee_id": 50,
+    "first_name": "Vedika",
+    "last_name": "Biswas",
+    "email": "employee50@example.com",
+    "department": "Engineering",
+    "role": "Software Engineer",
+    "hire_date": "2026-04-25",
+    "status": "active"
+  }
+]

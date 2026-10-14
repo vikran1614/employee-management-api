@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,email,department,role,hire_date,status
+1,Isaac,Bakshi,employee1@example.com,Engineering,Software Engineer,2024-02-14,active
+2,Yash,Kapoor,employee2@example.com,HR,HR Executive,2022-12-20,active
+3,Harsh,Chahal,employee3@example.com,HR,HR Executive,2025-05-15,active
+4,Azad,Balan,employee4@example.com,HR,HR Executive,2022-07-31,inactive
+5,Tejas,Kaul,employee5@example.com,HR,HR Executive,2026-01-30,active
+6,Avi,Issac,employee6@example.com,Finance,Accountant,2026-06-02,active
+7,Oni,Kannan,employee7@example.com,HR,Recruiter,2025-08-08,inactive
+8,Arunima,Ahuja,employee8@example.com,Finance,Payroll Analyst,2023-02-21,inactive
+9,Pahal,Oak,employee9@example.com,Data,Data Analyst,2024-02-23,inactive
+10,Nachiket,Kale,employee10@example.com,Data,Data Analyst,2024-08-23,active
+11,Harsh,Chanda,employee11@example.com,Engineering,Software Engineer,2025-01-05,active
+12,Gunbir,Parmer,employee12@example.com,HR,HR Executive,2024-09-15,active
+13,Aishani,Bassi,employee13@example.com,HR,Recruiter,2025-09-09,active
+14,Jeet,Radhakrishnan,employee14@example.com,Engineering,Backend Developer,2022-06-14,active
+15,Chaaya,Pathak,employee15@example.com,Engineering,Backend Developer,2026-09-10,active
+16,Rehaan,Boase,employee16@example.com,HR,Recruiter,2022-03-04,active
+17,Vedant,Mann,employee17@example.com,HR,HR Executive,2022-06-17,active
+18,Viraj,Chaudhuri,employee18@example.com,Engineering,Software Engineer,2025-01-06,active
+19,Arunima,Setty,employee19@example.com,HR,HR Executive,2024-11-19,active
+20,Nicholas,Prabhakar,employee20@example.com,Finance,Accountant,2024-10-20,inactive
+21,Shaurya,Loke,employee21@example.com,HR,Recruiter,2022-05-22,active
+22,Onveer,Walla,employee22@example.com,Data,Data Engineer,2023-11-12,active
+23,Nihal,Shere,employee23@example.com,Finance,Accountant,2025-01-03,inactive
+24,Anamika,Kanda,employee24@example.com,HR,HR Executive,2024-07-16,inactive
+25,Daksh,Karnik,employee25@example.com,HR,Recruiter,2022-01-20,active
+26,Diya,Rattan,employee26@example.com,Engineering,Backend Developer,2024-01-22,active
+27,Dominic,Kakar,employee27@example.com,Finance,Payroll Analyst,2026-08-10,inactive
+28,Divya,Kala,employee28@example.com,HR,HR Executive,2026-01-11,inactive
+29,Meghana,Shanker,employee29@example.com,Engineering,Backend Developer,2022-12-30,active
+30,Alka,Dewan,employee30@example.com,Finance,Accountant,2023-11-18,inactive
+31,Adya,Sangha,employee31@example.com,Data,Data Engineer,2026-09-29,active
+32,Mohini,Pathak,employee32@example.com,Finance,Payroll Analyst,2023-08-25,active
+33,Lakshit,Upadhyay,employee33@example.com,Finance,Accountant,2025-12-24,inactive
+34,Gavin,Batta,employee34@example.com,Engineering,Backend Developer,2022-09-18,active
+35,Michael,Dutta,employee35@example.com,Finance,Payroll Analyst,2025-05-16,active
+36,Devansh,Rajan,employee36@example.com,Finance,Payroll Analyst,2025-01-10,active
+37,Upadhriti,Wadhwa,employee37@example.com,HR,HR Executive,2023-12-03,active
+38,Advay,Contractor,employee38@example.com,HR,HR Executive,2026-05-08,active
+39,Amara,Oak,employee39@example.com,Data,Data Engineer,2022-09-24,active
+40,Chaaya,Saran,employee40@example.com,HR,HR Executive,2023-02-16,active
+41,Sudiksha,Aggarwal,employee41@example.com,Data,Data Engineer,2024-01-09,active
+42,Xiti,Gokhale,employee42@example.com,HR,Recruiter,2026-02-06,inactive
+43,Hitesh,Misra,employee43@example.com,Engineering,Software Engineer,2026-02-06,inactive
+44,Rushil,Dua,employee44@example.com,Engineering,Backend Developer,2024-12-17,active
+45,Neel,Zacharia,employee45@example.com,Finance,Payroll Analyst,2026-04-17,active
+46,Aadi,Naik,employee46@example.com,Finance,Accountant,2025-12-09,active
+47,Anirudh,Choudhury,employee47@example.com,Finance,Payroll Analyst,2024-11-13,active
+48,Damyanti,Khatri,employee48@example.com,Data,Data Analyst,2022-04-10,active
+49,Wridesh,Brar,employee49@example.com,HR,HR Executive,2022-07-06,active
+50,Vedika,Biswas,employee50@example.com,Engineering,Software Engineer,2026-04-25,active
